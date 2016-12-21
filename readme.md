@@ -1,4 +1,5 @@
-# Slack optimizer for loading basic HTML
+# Optimized Slack app for slow interneet connections
+This project enables team/user to load only basic HTML view for Slack.
 ![](http://i.imgur.com/h6l6J9F.png)
 
 ## Virtualization
