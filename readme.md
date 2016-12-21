@@ -1,7 +1,7 @@
-# Slack optimizer
+# Slack optimizer for loading basic HTML
+This is a Laravel project.
 
-Slack optimizer...
+## Virtualization
+For virtualization the `laravel/homestead` is use.
 
-## Official Documentation
-
-Info...
+The intallation instruction can be found at: http://laravel.com/docs/homestead
