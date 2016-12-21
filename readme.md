@@ -1,7 +1,7 @@
 # Slack optimizer for loading basic HTML
-This is a Laravel project.
+![](http://i.imgur.com/h6l6J9F.png)
 
 ## Virtualization
-For virtualization the `laravel/homestead` is use.
+Because this is a Laravel project, use the `laravel/homestead` for virtualization.
 
 The intallation instruction can be found at: http://laravel.com/docs/homestead
